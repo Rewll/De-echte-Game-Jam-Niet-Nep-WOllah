@@ -19,7 +19,7 @@ public class GameManager : MonoBehaviour
     {
         genereerLijst();
     }
-
+    //wist je da thg
     void genereerLijst()
     {
         for (int i = 0; i < mensenAantal; i++)
